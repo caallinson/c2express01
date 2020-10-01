@@ -1,3 +1,5 @@
+//Add some contact
+var test;
 var express = require("express");
 var app = express();
 const fetch = require("node-fetch");
